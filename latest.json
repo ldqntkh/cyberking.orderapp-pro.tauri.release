@@ -3,7 +3,7 @@
     "notes": "CKHUB Order app",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2huVEJibXIzWjAyNTFqZjE4em40MHh5L1NKbFVJQktWS3RLY0cwbEVMZkhldjl4M0g4NXhOUGJzdW95bHpmeUkxOUJ6bkFVN1hmVENnbkNXSEVCeWtUbXFGWUFjMGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODM1NzM1CWZpbGU6Q0tIVUIgT3JkZXJfMC4wLjFfeDY0LXNldHVwLmV4ZQpxT0Z1bUpTS0YxYmJhZlRiUXZrMWluRDZUYUFOWUZOVFlkOEhFb1RHcndCT04wWCtqZ20yekpjQUd5dGFQUDdBN0Rrbk9DOGl4UGxleVdGaDhJbThBdz09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2huVEJibXIzWjVNUXlMWG9lKzU0SkNOVGhYbTFxSnhqUjkvTWgwdkJYVi9HME9LazVuS0FMZlErcjh3cU1WejVURjJEQzE3cEN3Mngvd3d4Ync1a2kzQUNYd28xUnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTIyODk0CWZpbGU6Q0tIVUIgT3JkZXJfMC4wLjFfeDY0LXNldHVwLmV4ZQovNnhVYnpCMisxSnJGaGs0MWJON3FHc2ZGVUpGQkRuY2FjUW8zSGZ3Y3o2WG9mQm9mWHFScVZPNFVEOWV0K2tOdExMZEhDUmZlcmZEN1V5WHpxQ09Edz09Cg==",
             "url": "https://github.com/ldqntkh/cyberking.orderapp-pro.tauri.release/releases/download/v0.0.1/CKHUB_Order_0.0.1_x64-setup.exe"
         }
     }
