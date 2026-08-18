@@ -1,10 +1,10 @@
 {
-    "version": "0.0.5",
-    "notes": "CKHUB Order app v0.0.5",
+    "version": "0.0.6",
+    "notes": "CKHUB Order app v0.0.6",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2huVEJibXIzWjVTM0xZL2pXYTVabklYTUQ4QzN6Rml0Rkg5T1ZPTGN1a3laMUNSWXdwekhUbXp6Njd5Y1Buc0lUbjZ2bzQvaHFFQmtmTU5jZkdQMGk1bE5TS2hwN0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Nzc4MjgzCWZpbGU6Q0tIVUIgT3JkZXJfMC4wLjVfeDY0LXNldHVwLmV4ZQp2VS9meE9OS1VBRlRoOTV6a1l6a1JFdXo2UWh4VEt6L1JyQXhOZFB4eVBKUWZDdnZzYW42NVI1dDEyZUxSd0Rhd0JNRWZpUUVLem9ra1QyZ0VaSmNBZz09Cg==",
-            "url": "https://github.com/ldqntkh/cyberking.orderapp-pro.tauri.release/releases/download/v0.0.5/CKHUB_Order_0.0.5_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2huVEJibXIzWjMvSDhxV1F1akN4bVg4ZzMzY3UyKzd1MlpZOSsxa280KzBxUldGbHFVaGErZWpMVXRoaVB6VldjblhmUDhLUkpFWDVLQWpQcGRlZ3NkNnh2MVN6R1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDY1MzQ0CWZpbGU6Q0tIVUIgT3JkZXJfMC4wLjZfeDY0LXNldHVwLmV4ZQprM0V1R3l0RnIrZkNqSnVlWlpXNjAxOGNwdHo2U1pmNDNnT0VCeEhERjVEK2V6MUZwMllwSnhOWlBvTHJJVGplLzhqU3VxdnYvNHBvOGgyTEdDV0tDZz09Cg==",
+            "url": "https://github.com/ldqntkh/cyberking.orderapp-pro.tauri.release/releases/download/v0.0.6/CKHUB_Order_0.0.6_x64-setup.exe"
         }
     }
 }
